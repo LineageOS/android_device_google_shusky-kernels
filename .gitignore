@@ -1,4 +1,7 @@
+*.dtb
 *.dtbo
+*.img
+*.ko
 .config
 Image
 Image.gz

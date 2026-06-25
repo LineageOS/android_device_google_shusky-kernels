@@ -8,6 +8,7 @@ Image.gz
 Image.lz4
 System.map
 abi_gki_aarch64_pixel
+cleaned-ddk-uapi-headers.tar.gz
 ddk-uapi-headers.tar.gz
 dtb.img
 initramfs.img
